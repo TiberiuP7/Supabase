@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'supabase/functions/upload-to-vector-store/**'
+      - 'functions/upload-to-vector-store/**'
   workflow_dispatch:
 
 jobs:
